@@ -23,7 +23,7 @@ dependencies:
   flutter:
     sdk: flutter
   
-  flutter_stripe:
+  stripe_android:
     git:
       url: https://github.com/CoveDK/stripe_android_cove.git
       ref: b5b2a334436320e2ecf0f2aa973da4432b1ecf04
